@@ -4,3 +4,6 @@
 - h-supertools
 - surferseo
 - keywordserfer
+
+- airtable
+- zapier
